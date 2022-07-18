@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-19T01:06:41 IST" name="Default suite" finished-at="2022-07-19T01:06:44 IST" duration-ms="3040">
+    <groups>
+    </groups>
+    <test started-at="2022-07-19T01:06:41 IST" name="Default test" finished-at="2022-07-19T01:06:44 IST" duration-ms="3040">
+      <class name="CreateAPIErrorsTesting">
+        <test-method signature="postError()[pri:0, instance:CreateAPIErrorsTesting@194bcebf]" started-at="2022-07-19T01:06:41 IST" name="postError" finished-at="2022-07-19T01:06:44 IST" duration-ms="2971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postError -->
+      </class> <!-- CreateAPIErrorsTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
